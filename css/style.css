@@ -1,0 +1,29 @@
+h1{
+    color: rgb(118, 49, 182);
+}
+.main-div{
+    border: 2px transparent solid;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    
+}
+.love-emoji{
+    color: red;
+}
+.succes{
+display: none;
+}
+.failed{
+    display: none;
+}
+.try{
+    display: none;
+    font-size: 30px;
+}
+#playAgain{
+    display: none;
+    
+}
+h3{
+    color: rgb(76, 134, 240);
+}
